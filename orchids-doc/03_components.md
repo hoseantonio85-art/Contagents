@@ -5,7 +5,7 @@
 
 - soft shadows
 
-- rounded corners (12–16px)
+- rounded corners (16–124px)
 
 - minimal borders
 
